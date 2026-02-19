@@ -11,7 +11,7 @@ const Projects = () => {
         "Integrated Django REST APIs with Firecrawl and Google Maps for pricing and location data, using the Distance Matrix and the Dijkstra algorithm to compute optimal store routes.",
         "Managed architecture, tasks, and Git workflow; achieved 70% faster comparisons and 25–35% user savings."
       ],
-      codeLink: "#",
+      codeLink: "https://github.com/Prangon108/Grocery_Pro",
       gradient: "from-teal-500 to-cyan-500"
     },
     {
@@ -23,7 +23,7 @@ const Projects = () => {
         "Built Firebase backend with Realtime Database, Authentication, and Cloud Functions for seamless user data, login, and content storage.",
         "Enabled voice input via Web Speech API, and real-time collaboration through sharable links for quizzes and flashcards."
       ],
-      codeLink: "#",
+      codeLink: "https://github.com/Prangon108/AI-Study-Companion",
       gradient: "from-cyan-500 to-teal-500"
     },
     {
@@ -48,7 +48,7 @@ const Projects = () => {
         "Applied priority queues to rank suggested time slots based on participant availability, meeting duration, and preferences, reducing manual scheduling efforts, and minimizing conflicts.",
         "Wrote comprehensive unit tests using JUnit to ensure reliability and correctness of scheduling logic and API endpoints."
       ],
-      codeLink: "#",
+      codeLink: "https://github.com/Prangon108/",
       gradient: "from-orange-500 to-red-500"
     }
   ];

@@ -42,10 +42,7 @@ const Hero = () => {
             </div>
             
             <p className="text-teal-800 text-lg leading-relaxed max-w-2xl">
-              Passionate software engineer with expertise in full-stack development, 
-              cloud infrastructure, and modern web technologies. Currently working as an 
-              Application Support Engineer while pursuing a BS in Computer Science at 
-              Wayne State University.
+            Software Engineer specializing in full-stack development, backend systems, and cloud infrastructure. Experienced in designing and delivering production-ready applications using Java, Spring Boot, React, Django, ASP.NET, and AWS. Passionate about building scalable APIs, microservices, and high-performance systems with clean architecture and strong engineering principles. Currently enhancing automation and system reliability as an Application Support Engineer, backed by a 4.0 GPA and Summa Cum Laude distinction.
             </p>
             
             <div className="flex flex-wrap gap-4 pt-4">

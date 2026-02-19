@@ -2,7 +2,7 @@
   "name": "prangon-portfolio",
   "version": "1.0.0",
   "description": "Portfolio website for Prangon Talukdar",
-  "homepage": "https://Prangon108.github.io/prangon_portfolio",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
